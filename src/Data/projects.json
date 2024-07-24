@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Blog App",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a dynamic blog website using React, allowing users to add, delete, and bookmark blogs for an engaging and interactive experience.",
+      "skills": ["React"],
+      "demo": "",
+      "source": "https://github.com/SHUBHAM03022004/react-blog-app.git"
+    },
+    {
+      "title": "Todo List",
+      "imageSrc": "projects/project.png",
+      "description": "Created a feature-rich todo list website using React, enabling users to add, delete, edit, and mark tasks as complete for effective task management.",
+      "skills": ["React"],
+      "demo": "https://dancing-salmiakki-98eab5.netlify.app/",
+      "source": "https://github.com/SHUBHAM03022004/todo-list.git"
+    },
+    {
+      "title": "Expense Tracker",
+      "imageSrc": "projects/project.png",
+      "description": "Built an expense tracker website using React for the frontend and Motoko for the backend, providing a seamless and efficient solution for managing finances in a web3 environment.",
+      "skills": ["React", "Motoko"],
+      "demo": "",
+      "source": "https://github.com/SHUBHAM03022004/expense_tracker.git"
+    }
+  ]
